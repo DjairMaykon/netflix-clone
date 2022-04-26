@@ -1,2 +1,2 @@
 # netflix-clone
-Projeto clone do netflix par aprimorar tecnicas em HTML, CSS e Javascript
+Projeto clone do netflix para aprimorar tecnicas em HTML, CSS e Javascript
